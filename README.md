@@ -1,3 +1,3 @@
 SmartFoodRescue:
-using Flask for backend and node.js for frontent .
-Website>
+using Flask for backend and node.js for frontent.
+
